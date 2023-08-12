@@ -1,1 +1,8 @@
-asdsdfdfgdhgj
+git init
+git add .(for all files) file_name(for specific file)
+git commit -m "message"
+git remote add origin "repo url"
+git push -f(for force push) origin main
+
+git clone
+git pull
